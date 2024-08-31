@@ -1,4 +1,4 @@
-# Node 16 - nvm use 16
+# Node 16 - nvm use 16 (original version in the course 14.17.6)
 
 # Getting Started with Create React App
 
